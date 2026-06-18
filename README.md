@@ -68,7 +68,7 @@ Yelp 리뷰 텍스트와 수치형 핸드크래프트 특징을 함께 사용해
 
 ### Gated Fusion 절제 연구
 
-`gated_fusion_ablation_results.csv`의 테스트셋 기준 성능입니다.
+`gated_fusion_ablation.ipynb`의 테스트셋 기준 성능입니다.
 
 | 실험 | 사용 특징 | Accuracy | Precision | Recall | F1-score |
 |---|---|---:|---:|---:|---:|
