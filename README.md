@@ -101,6 +101,8 @@ Yelp 리뷰 텍스트와 수치형 핸드크래프트 특징을 함께 사용해
   - RoBERTa 기반 baseline 실험
 - `gated_fusion.ipynb`
   - 텍스트 + 수치형 feature를 결합한 Gated Fusion 모델
+- `gated_fusion_ablation.ipynb`
+  - 특징 그룹별 절제 연구 실험
 - `preprocess.ipynb`
   - 데이터 전처리 및 feature 추출
 
